@@ -4,6 +4,7 @@
 
 body {
     background-color: #ccffeb;
+    font-family: 'Lato', sans-serif;
 }
 
 #main {
@@ -11,7 +12,6 @@ body {
     margin-right: auto;
     text-align: center;
     font-size: 18px;
-    font-family: 'Lato', sans-serif;
     width: 1000px;
     margin-bottom: 50px;
 }
@@ -32,6 +32,17 @@ body {
     padding: 20px;
     line-height: 1.5em;
     position: relative;
+}
+
+@media(min-width:350px) {
+    #main {
+        width: auto;
+        font-size: 14px;
+    }
+
+    #tribute-info {
+        width: auto;
+    }
 }
 
 ul {
