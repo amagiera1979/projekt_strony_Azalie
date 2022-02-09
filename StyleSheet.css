@@ -21,3 +21,7 @@ body {
     height: 500px;
 }
 
+#img-caption {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
