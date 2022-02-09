@@ -33,3 +33,15 @@ body {
     line-height: 1.5em;
     position: relative;
 }
+
+ul {
+    text-align: justify;
+}
+
+ol {
+    list-style-type: none;
+}
+
+hr {
+    color: #006666;
+}
