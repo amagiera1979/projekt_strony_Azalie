@@ -25,3 +25,11 @@ body {
     margin-top: 10px;
     margin-bottom: 30px;
 }
+
+#tribute-info {
+    width: 940px;
+    /* background-color: #ffe6f0; */
+    padding: 20px;
+    line-height: 1.5em;
+    position: relative;
+}
