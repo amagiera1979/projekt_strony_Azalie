@@ -59,3 +59,11 @@ a {
         color: #cc3399;
         font-size: 1.1em;
     }
+
+footer {
+    font-weight: 700;
+    background-color: #99ffeb;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    display: block;
+}
